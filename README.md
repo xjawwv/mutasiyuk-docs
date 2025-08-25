@@ -3,6 +3,11 @@ MutasiYUK-docs
 
 
 ## Public API (pakai API Key)
+
+ENDPOINT:
+
+api.mutasiyuk.my.id
+
 Header:
 ```
 x-api-key: <API_KEY>
