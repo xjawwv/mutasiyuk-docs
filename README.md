@@ -54,7 +54,7 @@ x-api-key: <API_KEY>
 ```
 
 ## Webhook
-User dapat men-setup `webhook_url` (Dashboard atau `POST /user/set-credentials`) dan opsional **webhook secret**.
+User dapat men-setup `webhook_url` (Dashboard)
 
 ### Header
 - `x-webhook-timestamp`: detik epoch
