@@ -11,8 +11,6 @@ x-api-key: <API_KEY>
 - `POST /api/deposit/create` `{ nominal, kode_unik_digits?: 3 }`
 - `POST /api/deposit/cancel` `{ kode_deposit }` → **Cancelled**
 - `GET  /api/deposit/status/:kode`
-- `GET  /api/mutasi?nominal=xxx&starttime=HH:mm` (proxy)
-- `GET  /api/mutasi/history?limit=50`
 
 ### Response Format (contoh)
 **Create Deposit (Success)**
